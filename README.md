@@ -1,6 +1,7 @@
 # Awesome-ProjectManagement
 Project Management Resources and References
--- BETA VERSION --
+<br />
+=== Beta Awesome List ===
 
 
 ## Microsoft Project
