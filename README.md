@@ -6,7 +6,9 @@ Project Management Resources and References
 
 ## Microsoft Project
 * [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software) - Microsoft
-* [Project help center](https://support.office.com/en-us/project)
+  * [Microsoft Project](https://support.office.com/project) - Find help, training, and technical support for Project users on support.office.com.
+  * [Project Server](https://docs.microsoft.com/en-us/Project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
+  * [Project Online](https://docs.microsoft.com/projectonline/project-online) - Find resources for managing Project Online in your Office 365 environment.
 * [What's new in Project 2019](https://support.office.com/en-us/article/what-s-new-in-project-2019-6be41c8a-c4b2-409a-9ef7-d250377ad3b7)
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
