@@ -10,7 +10,7 @@ Project Management Resources and References
 * [What's new in Project 2019](https://support.office.com/en-us/article/what-s-new-in-project-2019-6be41c8a-c4b2-409a-9ef7-d250377ad3b7)
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
-
+-----
 ### Top YouTube Channels :tv: (MS Project)
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * [MS Project 2016 Tutorial](https://www.youtube.com/watch?v=6CpDz7fzMmo&list=PLzj7TwUeMQ3gEx7_OYMI-PM_2ofCiVSq9) - Simon Sez IT
@@ -19,6 +19,7 @@ Project Management Resources and References
    * [Quick Guide](https://www.tutorialspoint.com/ms_project/ms_project_quick_guide.htm)
 * [Microsoft Project Tips & Tricks (Video ~1 hour)](https://www.youtube.com/watch?v=kh5tAIWRXIs) - Ellen Lehnert
 
+-----
 ### Resources and References
 * [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
 * Calendar
@@ -47,12 +48,12 @@ Project Management Resources and References
 * Misc
   * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
   
-  
+-----
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
 * [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
 
-
+-----
 ### PM Definitions and Articles
 * [Business Process Management](https://kissflow.com/bpm/business-process-management-overview/) - A Full Overview of Business Process Management
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
