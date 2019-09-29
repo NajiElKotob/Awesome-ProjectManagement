@@ -62,4 +62,5 @@ Project Management Resources and References
 * [Business Case](https://www.projectmanager.com/blog/project-management/how-to-write-a-business-case)
 * [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
 * [Scope Creep and Gold Plating](https://pmstudycircle.com/2012/09/scope-creep-and-gold-plating-in-project-management/) - Fahad Usmani (PM Study Circle)
+* [What is Scope Creep?](http://www.brandcalling.com/our-blog/lessons_in_scope_creep_confronting_the_beast) - Christine Batta
 * [Agile project management](https://www.cio.com/article/3156998/agile-project-management-a-beginners-guide.html) - CIO
