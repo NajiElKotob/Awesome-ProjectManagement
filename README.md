@@ -18,6 +18,9 @@ Project Management Resources and References
 * [MS Project 2013](https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM) - Tutorials Point
    * [Quick Guide](https://www.tutorialspoint.com/ms_project/ms_project_quick_guide.htm)
 * [Microsoft Project Tips & Tricks (Video ~1 hour)](https://www.youtube.com/watch?v=kh5tAIWRXIs) - Ellen Lehnert
+* Vision 6D
+  * [MS Project](https://www.youtube.com/watch?v=fmjQlVssDp4&list=PL5t0n9TgavtkaYbi6fSg4p_TT6ZC50wxT)
+  * [MS Project 2019](https://www.youtube.com/watch?v=A-yPSJGY-_Y&list=PL5t0n9TgavtkeOE_pP3POh317VI-hJoN_)
 
 -----
 ### Resources and References
