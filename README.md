@@ -66,3 +66,6 @@ Project Management Resources and References
 * [What is Scope Creep?](http://www.brandcalling.com/our-blog/lessons_in_scope_creep_confronting_the_beast) - Christine Batta
 * [Agile project management](https://www.cio.com/article/3156998/agile-project-management-a-beginners-guide.html) - CIO
 * [Statement of Work](https://www.projectmanager.com/blog/statement-work-definition-examples)
+
+### Business Concepts
+* [A Plan Is Not a Strategy 📺 ~10min](https://www.youtube.com/watch?v=iuYlGRnC7J8) - Harvard Business Review
