@@ -17,6 +17,7 @@ Project Management Resources and References
 * [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528)
 * Project
   - [Create a project in Project desktop](https://support.microsoft.com/en-us/office/create-a-project-in-project-desktop-783c8570-0111-4142-af80-989aabfe29af)
+  - [Overview of Project views](https://support.microsoft.com/en-us/office/overview-of-project-views-6cb1dbcd-5cd5-4cc2-a878-aa365564266d)
 * Calendar
   - [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * WBS
