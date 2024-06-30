@@ -29,6 +29,7 @@ Project Management Resources and References
 * Calendar
   * [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * Tasks
+  - [Indicators field](https://support.microsoft.com/en-us/office/indicators-field-414e1168-ee9d-414c-b1fc-7520629a2739)
   * [Add new tasks](https://support.office.com/en-us/article/add-new-tasks-6990803e-d0c7-48aa-94c9-ef14387f6792)
   * [Change a task duration](https://support.office.com/en-us/article/change-a-task-duration-0c551218-e543-4a5a-80f5-363c5c7c4e49)
   * [Import Excel data into Project](https://support.office.com/en-us/article/import-excel-data-into-project-cb3fb91a-ad05-4506-b0af-8aa8b2247119)
