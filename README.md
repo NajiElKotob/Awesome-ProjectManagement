@@ -1,6 +1,7 @@
-# Awesome-ProjectManagement
-Project Management Resources and References
+# Awesome Project Management
+`Microsoft Project Resources and References`
 
+{Awesome Works in Progress}
 
 ## Microsoft Project
 * [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software) - Microsoft
