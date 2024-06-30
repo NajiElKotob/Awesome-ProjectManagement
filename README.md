@@ -12,6 +12,7 @@ Project Management Resources and References
 
 -----
 ### Top YouTube Channels :tv: (MS Project)
+* [Microsoft Project 2021 Beginner to Advanced Training 📺 ~5 hours](https://www.youtube.com/watch?v=Ss3WMhTDM5U) ⭐ - Simon Sez IT
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * [MS Project 2016 Tutorial](https://www.youtube.com/watch?v=6CpDz7fzMmo&list=PLzj7TwUeMQ3gEx7_OYMI-PM_2ofCiVSq9) - Simon Sez IT
 * [Microsoft Project 2016 advanced training tutorial](https://www.youtube.com/watch?v=k8xixFtwv8E&list=PLzj7TwUeMQ3ijsaeOSiLehF1bquXCxmHv) - Simon Sez IT
