@@ -66,7 +66,7 @@
 * [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
 
 -----
-### PM Definitions and Articles
+### Articles
 * [Business Process Management](https://kissflow.com/bpm/business-process-management-overview/) - A Full Overview of Business Process Management
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
 * [Business Case](https://www.projectmanager.com/blog/project-management/how-to-write-a-business-case)
@@ -75,6 +75,8 @@
 * [What is Scope Creep?](http://www.brandcalling.com/our-blog/lessons_in_scope_creep_confronting_the_beast) - Christine Batta
 * [Agile project management](https://www.cio.com/article/3156998/agile-project-management-a-beginners-guide.html) - CIO
 * [Statement of Work](https://www.projectmanager.com/blog/statement-work-definition-examples)
+#### Project Scheduling
+* [Project Scheduling - PERT/CPM | Finding Critical Path 📺 ~7min](https://www.youtube.com/watch?v=-TDh-5n90vk) - Joshua Emmanuel
 
 ### Business Concepts
 * [A Plan Is Not a Strategy 📺 ~10min](https://www.youtube.com/watch?v=iuYlGRnC7J8) - Harvard Business Review
