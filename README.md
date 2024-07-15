@@ -69,12 +69,14 @@
 ### Articles
 * [Business Process Management](https://kissflow.com/bpm/business-process-management-overview/) - A Full Overview of Business Process Management
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
+* [Projects and The Project Lifecycle](https://www.pmi.org/about/what-is-a-project) - pmi.org
 * [Business Case](https://www.projectmanager.com/blog/project-management/how-to-write-a-business-case)
 * [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
 * [Scope Creep and Gold Plating](https://pmstudycircle.com/2012/09/scope-creep-and-gold-plating-in-project-management/) - Fahad Usmani (PM Study Circle)
 * [What is Scope Creep?](http://www.brandcalling.com/our-blog/lessons_in_scope_creep_confronting_the_beast) - Christine Batta
 * [Agile project management](https://www.cio.com/article/3156998/agile-project-management-a-beginners-guide.html) - CIO
 * [Statement of Work](https://www.projectmanager.com/blog/statement-work-definition-examples)
+  
 #### Project Scheduling
 * [Project Scheduling - PERT/CPM | Finding Critical Path 📺 ~7min](https://www.youtube.com/watch?v=-TDh-5n90vk) - Joshua Emmanuel
 
