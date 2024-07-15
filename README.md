@@ -14,8 +14,11 @@
 
 -----
 ### Learning
-* [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
-* [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528)
+
+* Microsoft Project
+  - [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
+  - [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528)
+  - [Microsoft Project Interface](https://www.trainingconnection.com/project/lessons/interface.php) - trainingconnection.com
 * Project
   - [Create a project in Project desktop](https://support.microsoft.com/en-us/office/create-a-project-in-project-desktop-783c8570-0111-4142-af80-989aabfe29af)
   - [Overview of Project views](https://support.microsoft.com/en-us/office/overview-of-project-views-6cb1dbcd-5cd5-4cc2-a878-aa365564266d)
