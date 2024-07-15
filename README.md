@@ -21,6 +21,7 @@
   - [Microsoft Project Interface](https://www.trainingconnection.com/project/lessons/interface.php) - trainingconnection.com
 * Project
   - [Create a project in Project desktop](https://support.microsoft.com/en-us/office/create-a-project-in-project-desktop-783c8570-0111-4142-af80-989aabfe29af)
+  - [Create a new project](https://support.microsoft.com/en-us/office/create-a-new-project-e9432a19-1081-4b47-ab6b-4d91fc036360)
   - [Overview of Project views](https://support.microsoft.com/en-us/office/overview-of-project-views-6cb1dbcd-5cd5-4cc2-a878-aa365564266d)
   - [Set the start date or finish date for your project](https://support.microsoft.com/en-us/office/set-the-start-date-or-finish-date-for-your-project-in-project-desktop-486b5f04-e647-40d9-8298-ba42613ae6d4)
 * Calendar
