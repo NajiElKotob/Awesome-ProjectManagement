@@ -24,6 +24,8 @@
   - [Create a new project](https://support.microsoft.com/en-us/office/create-a-new-project-e9432a19-1081-4b47-ab6b-4d91fc036360)
   - [Overview of Project views](https://support.microsoft.com/en-us/office/overview-of-project-views-6cb1dbcd-5cd5-4cc2-a878-aa365564266d)
   - [Set the start date or finish date for your project](https://support.microsoft.com/en-us/office/set-the-start-date-or-finish-date-for-your-project-in-project-desktop-486b5f04-e647-40d9-8298-ba42613ae6d4)
+* Gantt Chart
+  - [Work with the Gantt Chart view](https://support.microsoft.com/en-us/office/work-with-the-gantt-chart-view-0e84efa4-78ce-4cd1-baed-5159a55f78b4)
 * Calendar
   - [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * WBS
