@@ -50,6 +50,9 @@
 * Custom Fields
    - [Create a custom field](https://support.office.com/en-us/article/create-a-custom-field-839d206f-b314-48f5-aa06-79140db93b94)
    - [Percent (%) Allocation fields (Resources)](https://support.office.com/en-us/article/percent-allocation-fields-b8d25634-1bf4-4d29-b568-7f637f37a46f)
+* Import and Export
+  - [Import Excel data into Project](https://support.microsoft.com/en-us/office/import-excel-data-into-project-cb3fb91a-ad05-4506-b0af-8aa8b2247119)
+  - [Export your project to Excel](https://support.microsoft.com/en-us/office/export-your-project-to-excel-ce71a2a4-e9ab-4879-a6f9-19421a70c13d)
 * Misc
   - [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
   
