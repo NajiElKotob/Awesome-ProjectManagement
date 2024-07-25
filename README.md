@@ -14,7 +14,6 @@
 
 -----
 ### Learning
-
 * Microsoft Project
   - [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
   - [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528); [تعليمات المشروع](https://support.microsoft.com/ar-sa/topic/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-afac1e38-1219-4a88-bd22-81534778d528) 🌟
@@ -58,7 +57,10 @@
   - [Export your project to Excel](https://support.microsoft.com/en-us/office/export-your-project-to-excel-ce71a2a4-e9ab-4879-a6f9-19421a70c13d)
 * Misc
   - [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
-  
+
+### Definitions
+* A project is “a temporary endeavor undertaken to create a unique product, service or result” [Learn more](https://www.pmi.org/learning/library/basic-project-program-definition-overview-6115) - pmi.org
+ 
 -----
 ### YouTube Channels :tv: (MS Project)
 * Simon Sez IT
