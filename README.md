@@ -15,6 +15,7 @@
 -----
 ### Learning
 * Core Concepts
+  - [History of project management](https://support.microsoft.com/en-us/office/history-of-project-management-a2e0b717-094b-4d1e-878a-fcd0978891cd)
   - [The project triangle](https://support.microsoft.com/en-us/office/the-project-triangle-8c892e06-d761-4d40-8e1f-17b33fdcf810)
 * Microsoft Project
   - [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
