@@ -20,6 +20,7 @@
 * Microsoft Project
   - [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
   - [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528); [تعليمات المشروع](https://support.microsoft.com/ar-sa/topic/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-afac1e38-1219-4a88-bd22-81534778d528) 🌟
+  - [The project management road map](https://support.microsoft.com/en-us/office/the-project-management-road-map-ad8c7625-fa14-4e36-9a83-c6af33097662)
   - [Microsoft Project Interface](https://www.trainingconnection.com/project/lessons/interface.php) - trainingconnection.com
 * Project
   - [Create a project in Project desktop](https://support.microsoft.com/en-us/office/create-a-project-in-project-desktop-783c8570-0111-4142-af80-989aabfe29af)
