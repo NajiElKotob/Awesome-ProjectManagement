@@ -41,6 +41,8 @@
   - [Change the task type for more accurate scheduling](https://support.office.com/en-us/article/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72)
 * Scheduling
   - [Using Hammock Tasks](https://www.mpug.com/articles/dos-and-donts-using-hammock-tasks/) - A hammock task is a task that has a variable duration. 
+* CPM
+  - [Show the critical path of your project in Project](https://support.microsoft.com/en-us/office/show-the-critical-path-of-your-project-in-project-ad6e3b08-7748-4231-afc4-a2046207fd86)
 * Resources
   - [Distribute project work evenly (level resource assignments)](https://support.office.com/en-us/article/distribute-project-work-evenly-level-resource-assignments-59ee715d-4446-42c9-8756-4ea2a5a7e4a0)
   - [Fixed Duration and Effort Driven Task in Project 2013](https://www.mpug.com/articles/fixed-duration-and-effort-driven-task-in-project-2013/)
