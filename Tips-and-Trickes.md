@@ -5,4 +5,4 @@
 * [Project Summary Task](https://support.microsoft.com/en-us/office/show-the-project-summary-task-in-project-desktop-5f29729b-5b22-4e75-a8ab-c69f2aa17573)
 * [Task duration - minutes (m), hours (h), days (d), weeks (w), or months (mo) and ?](https://support.microsoft.com/en-us/office/change-a-task-duration-0c551218-e543-4a5a-80f5-363c5c7c4e49)
 * Custom Fields > Lookup - Enter values quickly with a lookup table
-* Wrap Text 
+* Wrap Text (Gantt Chart Format)
