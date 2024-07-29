@@ -2,6 +2,7 @@
 
 1. CTRL+D or Fill Handle (Cross Icon) [⌨](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-project-7a4dc22b-ceb8-4a97-ac6f-6f9eaf36414a)
 1. Move around your project - ALT+Home/End/PgUp/PgDn
+1. Indent and outdent tasks - ALT+Shift+Right/Left Arrow
 1. Toggle between panes - F6
 1. Active Pane (Green title)
 1. Quick Access Toolbar (View)
