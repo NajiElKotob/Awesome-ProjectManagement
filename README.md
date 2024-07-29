@@ -17,6 +17,7 @@
 * Core Concepts
   - [History of project management](https://support.microsoft.com/en-us/office/history-of-project-management-a2e0b717-094b-4d1e-878a-fcd0978891cd)
   - [The project triangle](https://support.microsoft.com/en-us/office/the-project-triangle-8c892e06-d761-4d40-8e1f-17b33fdcf810)
+  - [MS Project Terminology- Top 20 Terms Everyone Must Know](https://www.civilverse.org/ms-project-terminology/)
 * Microsoft Project
   - [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
   - [Project Help](https://support.microsoft.com/en-us/office/project-help-afac1e38-1219-4a88-bd22-81534778d528); [تعليمات المشروع](https://support.microsoft.com/ar-sa/topic/%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-afac1e38-1219-4a88-bd22-81534778d528) 🌟
