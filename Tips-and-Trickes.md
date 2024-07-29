@@ -24,3 +24,4 @@
 1. Set the default view (Options > General > Default View)
 1. Insert Hyperlinks (Task (Right-click) > Link)
 1. Copy customizations (File > Info > Organizer)
+1. Sort by (View > Sort > Sort by)
