@@ -11,3 +11,5 @@
 1. Zoom the Timescale
 1. Show only incomplete tasks (View > Filter)
 1. Expand and collapse the task list (View > Outline)
+1. Insert and hide columns
+1. Reset Gantt/Table
