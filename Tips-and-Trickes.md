@@ -15,3 +15,4 @@
 1. Insert and hide columns
 1. Reset Gantt/Table
 1. New Window and Arrange
+1. Set the default view (Options > General > Default View)
