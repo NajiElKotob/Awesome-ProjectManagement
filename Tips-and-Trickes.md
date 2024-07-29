@@ -7,3 +7,4 @@
 * Custom Fields > Lookup - Enter values quickly with a lookup table
 * Wrap Text (Gantt Chart Format)
 * Field name vs Title (Column > Field Settings)
+* Change Currency (Options > Display)
