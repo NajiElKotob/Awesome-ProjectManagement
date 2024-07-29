@@ -14,3 +14,4 @@
 1. Expand and collapse the task list (View > Outline)
 1. Insert and hide columns
 1. Reset Gantt/Table
+1. New Window and Arrange
