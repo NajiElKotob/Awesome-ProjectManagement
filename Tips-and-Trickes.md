@@ -26,3 +26,4 @@
 1. Copy customizations (File > Info > Organizer)
 1. Sort by (View > Sort > Sort by)
 1. No filter (View > Filter), Clear Filter from (column)
+1. Auto save (Options > Save)
