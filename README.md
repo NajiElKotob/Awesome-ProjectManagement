@@ -35,6 +35,7 @@
   - [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * WBS
   - [Create WBS codes in Project desktop](https://support.microsoft.com/en-au/office/create-wbs-codes-in-project-desktop-bb6a61aa-debd-4e38-8c04-8e2c1ae3cbda)
+  - [The WBS](https://www.pmi.org/learning/library/work-breakdown-structure-basic-principles-4883) - pmi.org
 * Tasks
   - [Indicators field](https://support.microsoft.com/en-us/office/indicators-field-414e1168-ee9d-414c-b1fc-7520629a2739)
   - [Add new tasks](https://support.office.com/en-us/article/add-new-tasks-6990803e-d0c7-48aa-94c9-ef14387f6792)
