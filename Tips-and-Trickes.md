@@ -25,3 +25,4 @@
 1. Insert Hyperlinks (Task (Right-click) > Link)
 1. Copy customizations (File > Info > Organizer)
 1. Sort by (View > Sort > Sort by)
+1. No filter (View > Filter), Clear Filter from (column)
