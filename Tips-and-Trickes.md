@@ -14,7 +14,7 @@
 1. Wrap Text (Gantt Chart Format)
 1. Field name vs Title (Column > Field Settings)
 1. Change Currency (Options > Display)
-1. Zoom the Timescale
+1. [Zoom the Timescale](https://support.microsoft.com/en-us/office/change-the-timescale-in-a-project-view-in-project-desktop-d46038c4-e8db-4013-a024-db0251dd8a4f)
 1. Show only incomplete tasks (View > Filter)
 1. Scroll to Task
 1. Expand and collapse the task list (View > Outline)
