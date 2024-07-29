@@ -9,3 +9,4 @@
 1. Field name vs Title (Column > Field Settings)
 1. Change Currency (Options > Display)
 1. Zoom the Timescale
+1. Show only incomplete tasks (View > Outline)
